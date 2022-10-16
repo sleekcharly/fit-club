@@ -13,7 +13,7 @@
 }
 
 .left-r>img {
-    object-fit: cover;
+    object-fit: contain;
 }
 
 .left-r>:nth-child(1) {
